@@ -20,7 +20,7 @@
 
     <plugins>
       <plugin>
-        <groupId>org.amortbay.jetty</groupId>
+        <groupId>org.mortbay.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
       </plugin>
     </plugins>
